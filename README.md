@@ -1,4 +1,4 @@
 # demo
 This is my first git repo.
 <br>
-Author: Swarnim kalra
+Author: Swarnim kalra (Self)
